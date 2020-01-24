@@ -1,0 +1,346 @@
+/*---FONTS---*/
+.title-font {
+    font-family: 'Baloo Bhai', cursive;
+}
+
+.subtitle-text {
+    font-size: 114%;
+    color: grey;
+}
+
+/*---BUTTON---*/
+.btn-white-pink {
+    background-color: white;
+    border-radius: 0px;
+    color: #e86ed0;
+    padding: 12px 45px;
+}
+
+.btn-white-pink:hover {
+    background-color: #e86ed0;
+    color: white;
+}
+
+/*---SCREEN---*/
+.full-width {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+
+/******************************************/
+.container {
+    max-width: 1280px;
+}
+
+.navbar-container {
+    position: absolute;
+    z-index: 1;
+    padding-top: 20px;
+    padding-left: 69px;
+}
+
+.logo-item {
+    padding-right: 724px;
+}
+
+.items-menu {
+    color: white;
+    padding-top: 23px;
+}
+
+.sign {
+    color: #484c7f;
+}
+
+.items-menu:hover {
+    color:#484c7f;
+}
+
+.items-menu.sign:hover {
+    color:white;
+}
+
+.middle-container {
+    position: relative;
+}
+
+.blue-left {
+    margin-top: 39px;
+    height: 620px;
+    background-color: #484c7f;
+    padding-left: 50px;
+    padding-top: 100px;
+
+}
+
+.moto-title {
+    font-size: 61px;
+    color: white;
+}
+
+.moto-subtitle {
+    font-size: 36px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.moto-subtitle.purple {
+    color: #e86ed0;
+}
+
+.title-subtitle {
+    padding-left: 50px;
+}
+
+.purple-right {
+    height: 700px;
+    background-color: #e86ed0;
+}
+
+.col-colors {
+    padding: 0px;
+}
+
+.top-image {
+    width: 100%;
+}
+
+.title-feature {
+    color: #484c7f;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 7%;
+}
+
+.purple {
+    color:#e86ed0;
+}
+
+.feature-container {
+    text-align: center;
+}
+
+.image-feature {
+    margin-bottom: 4%;
+}
+
+.btn-readmore {
+    border-radius: 0px;
+    padding: 16px 40px;
+    margin-bottom: 5%;
+}
+
+.btn-readmore:hover {
+    background-color:#e86ed0;
+    border-color: #e86ed0;
+}
+
+.amezing-container {
+    background-color: #484c7f;
+    height: 842px;
+    padding: 100px;
+    margin-bottom: 8%;
+}
+
+.text-amezing {
+    color: white;
+    font-size: 50px;
+}
+
+.text-application {
+    color:#e86ed0; 
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+.movil-image {
+    width: 100%;
+}
+
+.dot {
+    background-color: white;
+    border-radius: 50%;
+    width: 95px;
+    height: 95px;
+    margin-bottom: 26px;
+}
+
+.dot-num {
+    font-size: 38px;
+    color:#e86ed0;
+    text-align: center;
+    position: relative;
+    top: 25px;
+}
+
+.dot-num-01 {
+    padding-bottom: 10px;
+}
+
+.amezing-explication {
+    color: white;
+    font-size: 18px;
+    padding-bottom: 26px;
+}
+
+.title-costumer {
+    font-size: 50px;
+    color: #484c7f;
+}
+
+.pink-costumer {
+    color:#e86ed0;
+}
+
+.costumer-container {
+    text-align: center;
+}
+
+.text-box {
+    max-width: 1071px;
+    height: 400px;
+    margin: 0 auto;
+    background:linear-gradient( white 50%, #484c7f 50%);
+    position: relative;
+}
+
+.customer-subtitle {
+    padding-bottom: 40px;
+}
+
+.costomar-img {
+    position: absolute;
+    left: 41px;
+    bottom: 41px;
+}
+
+.cross-img {
+    position: absolute;
+    left: 70px;
+    bottom: 171px;
+}
+
+.costomar-name {
+    position: absolute;
+    top: 280px;
+    left: 200px;
+    color: white;
+    font-size: 33px;
+}
+
+.cost-img {
+    position: absolute;
+    top: 191px;
+    right: 41px;
+}
+
+.dot-caroussel {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #484c7f;
+    display: inline-block;
+    margin-bottom: 65px;
+}
+
+.request-container {
+    height: 400px;
+    background-color: #e7eaf6;
+    text-align: center;
+    padding-top: 90px;
+}
+
+.request-title {
+    color: #484c7f;
+    font-size: 50px;
+}
+
+.request-title-purple {
+    color: #e86ed0;
+}
+
+.request-img {
+    display: inline-block;
+    width: 60px;
+}
+
+.num-email {
+    padding-top: 40px;
+    display: inline-block;
+    font-size: 50px;
+}
+
+.ostiaputa {
+    display: inline-block;
+    margin-right: 70px;
+}
+
+.ostiaputa2 {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.multipurpouse-footer {
+    background-color:#484c7f;
+    height: 330px;
+
+}
+
+.multipurpouse {
+    color: white;
+    text-align: center;
+    padding: 60px;
+}
+
+.multipurpouse-text {
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-bottom: 30px;
+}
+
+.social-media-btn {
+    background-color: white;; 
+    border: none; 
+    color: white; 
+    padding: 12px 16px; 
+    cursor: pointer; 
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    position: relative;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-media-btn:hover {
+    background-color:#e86ed0;
+}
+
+.social-media-icons {
+    width: 30px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    position: absolute;
+}
+
+.copyright {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+.title-dot {
+    color: white;
+    position: absolute;
+    top: 33px;
+    left: 80px;
+}
+  
